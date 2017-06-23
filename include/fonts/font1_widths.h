@@ -1,5 +1,6 @@
 #if REVISION >= 1
-static const u8 sFont1Widths[] = {
+static const u8 sFont1Widths[] =
+{
     5, 3, 8, 8, 8, 8, 8, 8, 8, 4, 5, 4, 4, 8, 8, 8,
     8, 8, 8, 8, 8, 8, 8, 5, 8, 8, 8, 8, 8, 4, 8, 8,
     8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 7, 5, 5, 5,
@@ -16,7 +17,8 @@ static const u8 sFont1Widths[] = {
     5, 5, 5, 5, 3, 3, 5, 5, 5, 5, 5, 5,
 };
 #else
-static const u8 sFont1Widths[] = {
+static const u8 sFont1Widths[] =
+{
     5, 3, 8, 8, 8, 8, 8, 8, 8, 4, 5, 4, 4, 8, 8, 8,
     8, 8, 8, 8, 8, 8, 8, 5, 8, 8, 8, 8, 8, 4, 8, 8,
     8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 6, 6, 6, 5,
